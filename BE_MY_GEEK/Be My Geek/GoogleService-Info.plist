@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>997114220550-6r6pa4aiv2hlg10j3bfnlarrisasumue.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.997114220550-6r6pa4aiv2hlg10j3bfnlarrisasumue</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYzV55m5OQQ-lf9bIgba-EFly2G0FL0M0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>997114220550</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.nadiaahmadia.BeMyGeek</string>
+	<key>PROJECT_ID</key>
+	<string>be-my-geek</string>
+	<key>STORAGE_BUCKET</key>
+	<string>be-my-geek.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:997114220550:ios:34629f2b285e56f47f7387</string>
+</dict>
+</plist>
